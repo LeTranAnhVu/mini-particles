@@ -49,7 +49,10 @@ Script:
 ```
 
 ## Demo
-There is the **test.html** file inside this package for demo
+There is the **test.html** file inside this package for demo:
+
+![my demo](https://github.com/LeTranAnhVu/mini-particles/imgs/mini-particle-demo.gif)
+
 
 ## License
 Mini-particle is MIT

@@ -1,6 +1,6 @@
 {
   "name": "mini-particle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is the mini particle project using canvas",
   "main": "index.js",
   "author": "Le Tran Anh Vu",
