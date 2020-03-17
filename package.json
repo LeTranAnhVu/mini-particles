@@ -3,6 +3,10 @@
   "version": "1.0.2",
   "description": "This is the mini particle project using canvas",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeTranAnhVu/mini-particles"
+  },
   "author": "Le Tran Anh Vu",
   "license": "MIT"
 }
