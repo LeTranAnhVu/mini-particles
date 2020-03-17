@@ -51,7 +51,7 @@ Script:
 ## Demo
 There is the **test.html** file inside this package for demo:
 
-![my demo](https://github.com/LeTranAnhVu/mini-particles/imgs/mini-particle-demo.gif)
+![my demo](https://github.com/LeTranAnhVu/mini-particles/blob/master/imgs/mini-particle-demo.gif)
 
 
 ## License
